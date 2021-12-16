@@ -1,0 +1,30 @@
+
+body {
+background-color: rgb(231, 12, 132);
+color: rgb(10, 10, 10);
+font-family: Arial, Helvetica, sans-serif;}
+
+h1{ background-color: chartreuse;
+    color: chocolate;
+    text-align: center;
+    line-height: 100ex;
+    padding: 0pt;}
+
+img {
+alt: inherit;
+
+height: 350px;
+width: 350px;
+}
+
+p {
+font-size: 2em;
+text-indent: 2em;
+}
+
+footer {
+color: khaki;
+}
+nav {
+    font-weight: 500;
+}
